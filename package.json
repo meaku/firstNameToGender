@@ -1,0 +1,14 @@
+{
+  "name": "firstNameToGender",
+  "version": "0.1.0",
+  "description": "Determine the gender for a first name.",
+  "main": "firstNameToGender.js",
+  "dependencies": {
+    "jsdom": "~0.2.19",
+    "request": "~2.12.0"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "author": "meaku <michael.jaser@peerigon>",
+  "license": "MIT"
+}
