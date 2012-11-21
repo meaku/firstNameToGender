@@ -14,7 +14,7 @@ There is a scraper included which can be run to update the names.
 ```javascript
 
 firstNameToGender("Michael"); //=> "m"
-firstNameToGender("Veronika"); //=> "v"
+firstNameToGender("Veronika"); //=> "f"
 
 ```
 
