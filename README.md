@@ -7,7 +7,7 @@ The data-source was scraped from the german wikipedia and converted to json.
 
 Data-Source: http://de.wikipedia.org/wiki/Liste_von_Vornamen
 
-There is a scraper included which can be run to updated the names.
+There is a scraper included which can be run to update the names.
 
 ### Usage
 
